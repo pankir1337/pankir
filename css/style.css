@@ -1,0 +1,266 @@
+* {
+	margin: 0;
+	padding: 0;
+    font-family: 'Roboto Slab', serif;
+    
+}
+header {
+	background: url(../img/lal.jpg) no-repeat center top / cover;
+    height: 800px;
+}
+/*nav*/
+
+.logo {
+	height: 30px;
+	margin-top: 30px;
+}
+
+.conteiner1 {
+	width: 950px;
+	margin: 0 auto;
+}
+
+.menu {
+	float: right;
+	margin-top: 35px;
+}
+
+.menu li {
+	float: left;
+	display: block;
+	margin-right: 40px;
+}
+
+.menu li a {
+	color: #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 14px;
+}
+
+/*index*/
+
+h1{
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 50px;	
+	text-align: center;
+	margin-top: 250px;
+	float: top;
+
+}
+
+.text1 {
+	text-align: center;
+    color: #fff;
+	padding-top: 30px;
+		
+}
+
+.conteiner2 {
+	margin-top: 0px;
+	display: flex;
+	justify-content: center;
+	margin-left:50px;
+    text-align: center;
+			
+}
+
+.icon1 {
+	
+	margin-right: 60px;
+    margin-top: 50px;
+ 
+    color: #fff; 
+    padding: 10px; 
+     
+}
+
+.icon1 p {
+	text-align: center;
+	margin-top: 20px;
+
+}
+
+main {
+	background: url(../img/mel.jpg) no-repeat center top/ cover;
+	height: 1300px;
+}
+
+/*подвал*/
+
+
+.footer{
+	background: url(../img/lal.jpg) no-repeat center top / cover;
+height: 180px;
+	
+}
+.footer__col{
+	display: flex;
+	padding: 50px 0 50px 0;
+	margin-top: 50px;
+	color: #fff;
+	margin-top: 0px;
+}
+.footer2 h4,
+.footer4 h4{
+	margin-bottom: 10px;
+	text-transform: uppercase;
+}
+.footer2 a{
+	color: #fff;
+}
+.footer3 a{
+	text-transform: uppercase;
+	color: #fff;
+}
+.footer1,
+.footer2,
+.footer3,
+.footer4 {
+	flex: 1;
+}
+.footer__tel,
+.footer__email{
+	color: #fff;
+	display: block;
+}
+
+
+.footer1 {
+	margin-left:120px;
+}
+
+
+/*2 list*/
+
+.big {
+	background: url(../img/lal.jpg) no-repeat center top/ cover;
+	height: 100px;
+
+}
+
+.main2 {
+	background: url(../img/mel.jpg) no-repeat center top/ cover;
+	height: 1400px;	
+	
+}
+
+.text2 {
+	text-align: left;
+	margin-left: 250px;
+	margin-top: 100px;
+}
+.text2 img {
+	height: 145px;
+	float:left; 
+    margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
+}
+
+.text2 h3 {
+	margin-left: 20px;
+	color: #fff;
+}
+
+
+
+/*list 3*/
+.main3 {
+	background: url(../img/mel.jpg) no-repeat center top/ cover;
+	height: 500px;	
+	border-top: 3px solid #506992;
+
+	
+}
+
+.big1 {
+	background: url(../img/mel.jpg) no-repeat center top/ cover;
+	height: 600px;
+}
+
+.icon2 {
+	
+	margin-right: 60px;
+    margin-top: 50px;
+    color: #fff; 
+    padding: 10px; 
+}
+
+.icon2 p {
+	text-align: center;
+	margin-top: 20px;
+}
+
+.border1 {
+
+	border-top: 3px solid #506992;
+}
+
+/*list4*/
+
+.conteiner4 {
+	color: #fff;
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
+.main__contacts__header{
+	font-size: 25px;
+	margin: 30px 0 30px 10px;
+}
+.main__contacts__info p{
+	letter-spacing: 0.8px;
+	display: inline-block;
+	padding: 0 10px 10px 0;
+	margin-left: 10px;
+}
+
+.contacts__header__inner{
+	font-weight: bold;
+	
+}
+
+
+.contacts__info__link{
+	color: #fff;
+}
+
+.contacts__maps {
+	margin: 10px 0 0 10px;
+
+}
+
+.main4 {
+	background: url(../img/mel.jpg) no-repeat center top/ cover;
+	height: 730px;
+	border-top: 3px solid #506992;
+}
+
+
+/*list5*/
+.main5 {
+	background: url(../img/mel.jpg) no-repeat center top/ cover;
+	height: 800px;
+	border-top: 3px solid #506992;
+
+}
+
+.oil {
+	color: #fff;
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
+.cons{
+	margin-top: 30px;
+}
+.cons p{
+	margin: 10px 0 10px 10px;
+}
+.cons h1{
+	font-size: 25px;
+	margin: 0 0 30px 20px;
+}
+.cons_btn{
+	margin-right: 20px;
+}
